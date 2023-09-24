@@ -4,6 +4,7 @@
   padding: 0;
 }
 
+/* PAGE SECTIONS */ 
 body {
   color: #444;
   font-family: sans-serif;
@@ -49,6 +50,7 @@ aside {
   width: 500px;
 }
 
+/* SMALLER ELEMENTS */
 h1,
 h2,
 h3 {
