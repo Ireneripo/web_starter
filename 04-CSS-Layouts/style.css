@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  width: 800px;
+  width: 1200px;
   /* margin-left: auto;
   margin-right: auto; */
   margin: 0 auto;
@@ -175,6 +175,7 @@ a:visited {
 a:hover {
   color: orangered;
   font-weight: bold;
+  -webkit-text-decoration: underline orangered;
   text-decoration: underline orangered;
 }
 
@@ -273,7 +274,6 @@ nav p {
 }
 
 .author {
-  /* padding-left: 80px; */
   float: left;
   margin-top: 10px;
   margin-left: 20px;
@@ -297,3 +297,16 @@ nav {
   display: block;
 }
 
+article {
+  width: 825px;
+  float: left;
+}
+
+aside {
+  width: 300px;
+  float: right;
+}
+
+footer {
+  clear: both;
+}
