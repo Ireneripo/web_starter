@@ -56,7 +56,8 @@ aside {
 h1,
 h2,
 h3 {
-  color: #1098ad;
+  /* color: #1098ad; */
+  color: red;
 }
 
 h1 {
